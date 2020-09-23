@@ -1,0 +1,12 @@
+{
+  "name": "obd-dashboard-ui",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.1.2",
+    "@angular/core": "^10.1.2"
+  },
+  "dependencies": {
+    "ngx-gauge": "^1.1.0",
+    "tslib": "^2.0.0"
+  }
+}
